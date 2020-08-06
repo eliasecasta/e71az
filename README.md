@@ -11,7 +11,7 @@ Here's a little about what I'm currently up to:
 
 My main hobbies are programming 💻, videogames 🎮 and netflix 🍿!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact)](https://github.com/e71az/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight)](https://github.com/e71az/github-readme-stats)
 
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/e71az/) DM or through my personal mail: e71az@icloud.com
