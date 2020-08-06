@@ -13,12 +13,4 @@ My main hobbies are programming 💻, videogames 🎮 and netflix 🍿!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight)](https://github.com/e71az/github-readme-stats)
 
-<a href="https://github.com/e71az/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=e71az&repo=Enumerables" />
-</a>
-<a href="https://github.com/e71az/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=e71az&repo=convoychat" />
-</a>
-
-
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/e71az/) DM or through my personal mail: e71az@icloud.com
