@@ -13,4 +13,4 @@ Here's a little about what I'm currently up to:
 
 My main hobbies are programming 💻, videogames 🎮 and netflix 🍿!
 
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/e71az/) DM or through [my personal mail](e71az@icloud.com).
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/e71az/) DM or through my personal mail: e71az@icloud.com
