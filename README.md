@@ -1,7 +1,6 @@
 # Hello everyone!
 
 I'm Elias Castañeda, currently in a mission to become a Full stack web developer.
-<br>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=e71az&theme=radical&show_icons=true" />
 Here's a little about what I'm currently up to:
 
