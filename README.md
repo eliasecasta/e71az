@@ -13,4 +13,4 @@ My main hobbies: Programming 💻 and videogames 🎮!
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=e71az&theme=radical&show_icons=true" />
 <br>
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/eliasecasta/) DM or through my personal mail: e71az@icloud.com
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/eliasecasta/) DM or through my personal <br> mail: e71az@icloud.com
