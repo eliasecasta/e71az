@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=eliasecasta&base=1000&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=eliasecasta&base=3781&abbreviated=true)
 # Hello everyone!
 
 I'm Elias Castañeda, currently in a path on becoming a Full stack web developer.
