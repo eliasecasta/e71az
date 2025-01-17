@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=e71az)
+![](https://komarev.com/ghpvc/?username=eliasecasta)
 # Hello everyone!
 
 I'm Elias Castañeda, currently in a path on becoming a Full stack web developer.
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasecasta&layout=compact&theme=tokyonight" />
 Here's a little about what I'm currently up to:
 
 - 🔥 I am an IT Engineer
@@ -11,6 +11,6 @@ Here's a little about what I'm currently up to:
 
 My main hobbies: Programming 💻 and videogames 🎮!
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=e71az&theme=radical&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=eliasecasta&theme=radical&show_icons=true" />
 <br>
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/eliasecasta/) DM or through my personal <br> mail: e71az@icloud.com
